@@ -163,9 +163,9 @@ class calculator:
       return result  
 
 #The block below can be uncommented to test this file alone 
-newcalculator = calculator(input("Enter your math expression e.g. 7+3+4 :"))
-evaluteSanitizedInput = newcalculator.sanitizeString()
-newcalculator.bodmasConsistency(evaluteSanitizedInput)
+# newcalculator = calculator(input("Enter your math expression e.g. 7+3+4 :"))
+# evaluteSanitizedInput = newcalculator.sanitizeString()
+# newcalculator.bodmasConsistency(evaluteSanitizedInput)
 
 
 

@@ -1,6 +1,10 @@
 # BODMAS Calculator
 
+  _**You might want to check the test file for the test cases and run the test first**_
+
+
 ### This calculator solution is written in python and it defines a class named __calculator__ with its attributes amongs which are:
+
 
 - additon - which handles sum operation
 - subtraction - handles subtraction or difference
