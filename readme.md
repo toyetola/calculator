@@ -2,7 +2,7 @@
 
   _**You might want to check the test file for the test cases and run the test first**_
 
-  _If you want to run [calculator.py](./calculator.py) standalone, you can uncomment the last three block of codes to help you experince how it works_
+  _If you however want to run [calculator.py](./calculator.py) standalone, you can uncomment the last three block of codes in the file to help you experience how it works._
 
 
 ### This calculator solution is written in python and it defines a class named __calculator__ with its attributes amongs which are:
