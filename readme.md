@@ -19,7 +19,7 @@ An example of user input method is *commented*  on the later part of [calculator
     7+2/3  or   3*2+1
 
 * bodmasConsistency - this helps to ensure the calculation is preformed inline with  BODMAS rule
-* evaluateBasedOnOperator - This method separately does the actual mathematical calculations and feeds back to bodmasConsistency
+* evaluateBasedOnOperator - This method separately does the actual mathematical calculations and feeds back to bodmasConsistency which eventually given the result
 
 # Error Handling
 
